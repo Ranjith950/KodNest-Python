@@ -1,0 +1,10 @@
+student_name="ranjith"
+student_age=25
+student_id="rnj123"
+student_marks=85.5
+student_active=True
+print(type(student_name))
+print(type(student_age))
+print(type(student_id))
+print(type(student_marks))
+print(type(student_active))
